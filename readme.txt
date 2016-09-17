@@ -5,3 +5,7 @@ secnd commit
 1. correct language readme
 third commit
 1. add matrix
+fourth commit
+1. fineshed codeacademy html&css
+2. start resume
+3. correct matrix
