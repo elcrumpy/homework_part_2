@@ -29,8 +29,28 @@ body {
 	padding-left: 30px;
 }
 .experience{
-	width: 90%;
+	width: 80%;
 	text-align: left;
+	float: left;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+.skills{
+	width: 100%;
+	text-align: left;
+	float: left;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+.hobby{
+	width: 100%;
+	text-align: left;
+	float: left;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+.video{
+	width: 100%;
 	float: left;
 	padding-top: 30px;
 	padding-left: 30px;
