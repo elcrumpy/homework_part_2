@@ -6,12 +6,6 @@ body {
 	background-color: #FFFFFF;
 	margin: 0;
 }
-.container {
-	width: 100%;
-	margin-left: auto;
-	margin-right: auto;
-	background-color: #FFFFFF;
-}
 .column {
 	width: 30%;
 	text-align: center;
@@ -21,9 +15,38 @@ body {
 .mydata{
 	width: 70%;
 	text-align: left;
-	padding-top: 30px;
+	padding-top: 100px;
 	float: left;
 }
 .profile {
 	width: 30%;
 }
+.education{
+	width: 100%;
+	text-align: left;
+	float: left;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+.experience{
+	width: 90%;
+	text-align: left;
+	float: left;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
